@@ -27,4 +27,3 @@ void printList();
 int leakedMeta();
 
 #endif /* SUPPORT_H_ */
-

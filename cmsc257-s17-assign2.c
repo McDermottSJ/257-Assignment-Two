@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 
-#include "cmsc257-s17-assign2-support.h"
+#include"support.h"
 
 
 int main(int argc, char *argv[]){
@@ -156,4 +156,3 @@ int main(int argc, char *argv[]){
 
 	return 0;
 }
-
